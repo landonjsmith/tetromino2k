@@ -2,7 +2,7 @@
 
 Tetromino 2K is a fully-featured Tetris clone programmed entirely in pure JavaScript and HTML, contained within a single 2KB file.
 
-As a personal coding challenge, I wanted to see how complete implementation of Tetris could fit within 2KB.
+As a personal coding challenge, I wanted to see how a complete implementation of Tetris could fit within 2KB.
 This meant every feature of the original game has to fit within an extremely tight code budget.
 (Hence the garbled mess that is the source-code LOL)
 
