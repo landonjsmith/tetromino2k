@@ -1,4 +1,4 @@
-# Tetromino 2K - A Tetris Clone in 2.72 kilobytes
+# Tetromino 2K - A Tetris Clone in 2.8 kilobytes
 
 Tetromino 2K is a fully-featured Tetris clone programmed entirely in pure JavaScript and HTML, contained within a single 2KB file.
 
